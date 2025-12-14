@@ -149,7 +149,7 @@ git push origin feature/your-feature-name
 
 4. Create a pull request on GitHub
 5. GitHub Actions will automatically run checks
-6. After approval and passing checks, merge your PR
+6. After approval and passing checks, merge your PR's
 
 ## 🤝 Contributing
 
