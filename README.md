@@ -160,9 +160,7 @@ git push origin feature/your-feature-name
 5. Create a Pull Request
 6. Ensure all CI checks pass
 
-## 📄 License
 
-ISC
 
 ## 👥 For New Team Members
 
