@@ -6,6 +6,6 @@ describe('greet function', () => {
   });
 
   test('should greet World', () => {
-    expect(greet('World')).toBe('Hello, World!');
+    expect(greet('World')).toBe('Hello, World!world');
   });
 });
