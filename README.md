@@ -165,7 +165,7 @@ git push origin feature/your-feature-name
 ## 👥 For New Team Members
 
 ### Quick Start Checklist
-- [ ] Clone the repository
+- [ ] Clone the repository.
 - [ ] Run `npm install`
 - [ ] Run `npm test` to verify setup
 - [ ] Run `npm start` to see the application in action
