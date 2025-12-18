@@ -2,7 +2,7 @@
 
 A simple Node.js application demonstrating automated testing and linting with GitHub Actions CI/CD pipeline configured to run on pull requests.
 
-## 📋 Overview
+## 📋 Overview - 
 
 This repository contains a basic Node.js application with:
 - Simple greeting functionality
